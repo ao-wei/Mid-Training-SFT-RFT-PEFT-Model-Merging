@@ -1,0 +1,1 @@
+deepspeed --num_gpus 4 --master_port 51336 mid_train.py --deepspeed_config /Volumes/AoWei/大模型训练营/阶段5/代码/5.mid_sft_stage/mid_training/config/ds_z2_tp.json
