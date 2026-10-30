@@ -4,6 +4,8 @@ version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
     "datasets==3.6.0",
+    "dotenv>=0.9.9",
+    "openai>=3.41.0",
     "torch>=2.14.1",
     "transformers==4.53.3",
 ]
